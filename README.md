@@ -6,4 +6,6 @@
 
 ### Threads1
 
-![fotoWPF](./img/Screenshot_20230216_081906.png)
+![fotoWPF](./img/Screenshot_20230302_084121.png)
+
+
